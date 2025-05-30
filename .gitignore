@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+.env/
+.venv/
+ENV/
+env.bak/
+env/
+
+# Environment variables
+*.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Data files (optional: include only if not meant to be tracked)
+*.csv
+*.xlsx
+*.parquet
+*.h5
+*.zip
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Python packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Unit test output
+htmlcov/
+.coverage
+coverage.xml
+.pytest_cache/
+
+# TA-Lib and compiled libraries (optional)
+*.so
+*.pyd
+*.dll
+*.dylib
+
+# Jupyter runtime
+~$*
+
+# GitHub Actions temp
+.github/workflows/*.log

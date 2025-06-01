@@ -19,7 +19,7 @@ env/
 .env.*
 
 # VS Code settings
-.vscode/
+# .vscode/
 
 # MacOS system files
 .DS_Store
